@@ -31,7 +31,7 @@
     -  🏴 CTFs and problem solving in general
 - 🧠 I enjoy self-education and learning new things on my own
 - <img height="12" width="18" src="https://cdn.simpleicons.org/autodesk" /> I like to design and print 3d pieces
-- 🤔 I have been worked on multiple Startups
+- 📈 I have been worked on multiple Startups
 - 🖌 I have experience in graphic design
 - 🎓I hold a degree in Telecommunications Engineering Technology and Services 
 
