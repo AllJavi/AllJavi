@@ -9,7 +9,6 @@
 
 [![github](https://img.shields.io/badge/GitHub-32302f?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AllJavi)
 [![reddit](https://img.shields.io/badge/Reddit-ea6962?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AllJavi)
-[![linkedin](https://img.shields.io/badge/Linkedin-7daea3?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-madrigal-torija-94925120a/)
 [![hackerrank](https://img.shields.io/badge/HackerRank-89b482?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/AllJavi)
 [![sololearn](https://img.shields.io/badge/Sololearn-d3869b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21051432i)
 [![hackthebox](https://img.shields.io/badge/HackTheBox-a9b665?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/users/765675)
@@ -17,9 +16,6 @@
 [![tryhackme](https://img.shields.io/badge/TryHackMe-282828?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/AllJavi)
 
 </div>
-
-
----
 
 <br>
 
@@ -45,23 +41,10 @@
 <br>
 
 ## 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> 
-<img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> 
-<img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> 
-<img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> 
-<img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> 
-<img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> 
-<img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=visual-studio&logoColor=007ACC"> 
-<img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> 
-<img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699">
-<img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+<img src="https://img.shields.io/badge/Arch Linux-32302f.svg?&style=flat-square&logo=Archlinux&logoColor=Legion"> <img src="https://img.shields.io/badge/Kali Linux-32302f.svg?&style=flat-square&logo=KaliLinux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-32302f.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/IOs-32302f.svg?&style=flat-square&logo=apple"> <img src="https://img.shields.io/badge/Firefox-32302f.svg?&style=flat-square&logo=firefox"> <img src="https://img.shields.io/badge/Vim-32302f?style=flat-square&logo=vim&logoColor=019733"> <img src="https://img.shields.io/badge/VS Code-32302f?style=flat-square&logo=visual-studio&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-32302f.svg?&style=flat-square&logo=iterm2&logoColor=white"> <img src="https://img.shields.io/badge/Obsidian-32302f.svg?&style=flat-square&logo=Obsidian&logoColor=483699"> <img src="https://img.shields.io/badge/Spotify-32302f.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
 <br>
 
 ## ️⚙️ Some Tool and Tech I use
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python,lua,ruby,regex)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,firebase,flutter,react,vue,bootstrap)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,autocad,raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,python,lua,ruby,regex,docker,aws,firebase,flutter,react,vue,bootstrap,photoshop,illustrator,figma,blender,autocad,raspberrypi,arduino&perline=7)](https://skillicons.dev)
