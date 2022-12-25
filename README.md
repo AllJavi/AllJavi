@@ -7,7 +7,6 @@
 ## 📪 Find me at:
 <div align="center">
 
-[![github](https://img.shields.io/badge/GitHub-32302f?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AllJavi)
 [![reddit](https://img.shields.io/badge/Reddit-ea6962?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AllJavi)
 [![hackerrank](https://img.shields.io/badge/HackerRank-89b482?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/AllJavi)
 [![sololearn](https://img.shields.io/badge/Sololearn-d3869b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21051432i)
