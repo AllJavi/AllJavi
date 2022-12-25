@@ -9,8 +9,8 @@
 
 [![reddit](https://img.shields.io/badge/Reddit-ea6962?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AllJavi)
 [![hackerrank](https://img.shields.io/badge/HackerRank-89b482?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/AllJavi)
-[![sololearn](https://img.shields.io/badge/Sololearn-d3869b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21051432i)
-[![hackthebox](https://img.shields.io/badge/HackTheBox-a9b665?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/users/765675)
+[![sololearn](https://img.shields.io/badge/Sololearn-d3869b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21051432/?ref=app)
+[![hackthebox](https://img.shields.io/badge/HackTheBox-a9b665?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/profile/765675)
 [![cryptohack](https://img.shields.io/badge/CryptoHack-e78a4e?style=for-the-badge&logo=RubySinatra&logoColor=white)](https://cryptohack.org/user/AllJavi/)
 [![tryhackme](https://img.shields.io/badge/TryHackMe-282828?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/AllJavi)
 
