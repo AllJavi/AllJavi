@@ -7,11 +7,11 @@
 ## 📪 Find me at:
 <div align="center">
 
-[![reddit](https://img.shields.io/badge/Reddit-ea6962?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AllJavi)
+[![monkeytype](https://img.shields.io/badge/Monkeytype-e78a4e?style=for-the-badge&logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/AllJavi)
+[![hackthebox](https://img.shields.io/badge/HackTheBox-a9b665?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/profile/765675)
+[![cryptohack](https://img.shields.io/badge/CryptoHack-7daea3?style=for-the-badge&logo=RubySinatra&logoColor=white)](https://cryptohack.org/user/AllJavi/)
 [![hackerrank](https://img.shields.io/badge/HackerRank-89b482?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/AllJavi)
 [![sololearn](https://img.shields.io/badge/Sololearn-d3869b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/21051432/?ref=app)
-[![hackthebox](https://img.shields.io/badge/HackTheBox-a9b665?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/profile/765675)
-[![cryptohack](https://img.shields.io/badge/CryptoHack-e78a4e?style=for-the-badge&logo=RubySinatra&logoColor=white)](https://cryptohack.org/user/AllJavi/)
 [![tryhackme](https://img.shields.io/badge/TryHackMe-282828?style=for-the-badge&logo=TryHackMe&logoColor=white)](https://tryhackme.com/p/AllJavi)
 
 </div>
