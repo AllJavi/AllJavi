@@ -20,7 +20,7 @@
 
 <img height="310" src="img/berserk.gif" align=right>
 
-- 🌱 I'm actively honing my skills in red team operations ☕
+- 🌱 I'm currently working on personal projects
 -  I enjoy working on:
     - <img height="12" width="12" src="https://cdn.simpleicons.org/redhat" /> Red team
     - 📱 Full Stack Mobile App/Web Development
